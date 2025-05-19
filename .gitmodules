@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/LansyLord/furia-chat-bot-front.git
+[submodule "api"]
+	path = api
+	url = https://github.com/LansyLord/furia-chat-bot-api.git
