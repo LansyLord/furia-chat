@@ -1,4 +1,4 @@
-# Projeto Chat Bot da FURIA
+# Projeto Furia Chat
 
 Este é um projeto de **Chat Bot informativo da FURIA**, voltado para os fãs do time profissional de Counter-Strike 2 masculino. 
 
